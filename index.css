@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(241, 0, 0);
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    height: 200px;
+    width: 300px;
+    margin: 30px;
+    justify-content: center;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 10%;
+}
+.name{
+    display: flexbox;
+    width: 100%;
+    
+}
+.pass1{
+    margin-bottom: 10px;
+    display: flexbox;
+}
+.pass{
+    width: 100%;
+    display: flexbox;
+    
+}
